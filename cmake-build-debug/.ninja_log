@@ -1,0 +1,20 @@
+# ninja log v5
+5	279	6881647626822322	build.ninja	9115a4c99aae09b9
+1701	1842	6881620999636363	string.exe	d107d0d87179c25e
+1925	2094	6881632452468802	iterator.exe	b612b575b01872a5
+6	1699	6881620998242684	CMakeFiles/string.dir/intro.cpp.obj	4064e17aa1f9fd09
+6	1924	6881632450865346	CMakeFiles/iterator.dir/iterator.cpp.obj	148ba9bfe76014f7
+3	1636	6881634102037642	CMakeFiles/string-size.dir/string-size.cpp.obj	cea09ee869bbb30a
+1637	1797	6881634103577086	string-size.exe	1036900ab74b4180
+6	1532	6881636115826593	CMakeFiles/string-element-access.dir/string-element-access.cpp.obj	4922f70861388da
+1533	1755	6881636117491349	string-element-access.exe	f294f2f223784c41
+5	1582	6881641300001839	CMakeFiles/string-modifiers.dir/string-modifiers.cpp.obj	84cfa53e6c61deb7
+1582	1712	6881641301280458	string-modifiers.exe	21a6258d2b7c7290
+4	1627	6881646929638431	CMakeFiles/string-operations.dir/string-operations.cpp.obj	221adf4c5e8951c0
+1627	1760	6881646930917613	string-operations.exe	b9b08ba775591dab
+1	2074	6881649434121392	CMakeFiles/string-stream.dir/string-stream.cpp.obj	ba07c494a863c3cb
+2075	2286	6881649436167777	string-stream.exe	cf37e606147a54f8
+4	1592	6881655387778443	CMakeFiles/string-stream.dir/string-stream.cpp.obj	ba07c494a863c3cb
+1593	1762	6881655389426905	string-stream.exe	cf37e606147a54f8
+4	2548	6881655992037030	CMakeFiles/string-stream.dir/string-stream.cpp.obj	ba07c494a863c3cb
+2548	2845	6881655994941539	string-stream.exe	cf37e606147a54f8

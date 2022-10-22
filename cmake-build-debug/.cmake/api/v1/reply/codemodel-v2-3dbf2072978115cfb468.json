@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "string",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "intro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intro-Debug-fd7f9f3841646fbf7b35.json",
+					"name" : "intro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator-Debug-5cac64b91949946028a1.json",
+					"name" : "iterator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-Debug-e2598805bee877edc63c.json",
+					"name" : "string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-element-access::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-element-access-Debug-a8e4120d484c637a9c38.json",
+					"name" : "string-element-access",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-modifiers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-modifiers-Debug-0e13878e49c274d08541.json",
+					"name" : "string-modifiers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-operations-Debug-1f93877ba3ef1a1474de.json",
+					"name" : "string-operations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-size::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-size-Debug-a4f8d8f989807665fc70.json",
+					"name" : "string-size",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-stream::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-stream-Debug-21426629412d494f70ef.json",
+					"name" : "string-stream",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Self Learning and Stuffs/CSE Funda/C++/string/cmake-build-debug",
+		"source" : "D:/Self Learning and Stuffs/CSE Funda/C++/string"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
